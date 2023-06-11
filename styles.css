@@ -1,2 +1,18 @@
 
+.holder{
+	border: 2px solid black;
+	width:100%;
+	/*padding:10px;*/
+/* 	background-color: blueviolet; */
+	display: flex;
+	justify-content: center;
+    align-items: center;
+    position:center;
+
+}
+.item1{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+}
 /* Your CSS Code here. */
